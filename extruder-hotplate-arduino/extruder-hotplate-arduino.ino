@@ -1,6 +1,6 @@
-// ROBO 497 - Capstone Senior Project
-// Spring 2019
 // Pedro Urbina
+// ROBO 497 - Capstone Senior Project
+// Summer 2019
 // Advisor: Ravindra Thamma, Ph.D.
 
 // EXTRUDER **********
